@@ -4,7 +4,7 @@ Signaling Gateway is an open-source core signaling component designed to bridge 
 
 It provides a modular and extensible foundation for handling signaling flows and protocol interactions, and is intended to be embedded as part of larger telecom platforms and network functions.
 
-This repository contains the open-source core of the Signaling Gateway, published and maintained by **PAiCore Technologies** as part of its commitment to open innovation.
+This repository contains the open-source core of the Signaling Gateway, published and maintained by **PAiCore Technology** as part of its commitment to open innovation.
 
 For more information about PAiCore Technologies, visit:  
 https://paicore.tech
