@@ -22,19 +22,6 @@
         <slf4j.version>1.7.30</slf4j.version>
     </properties>
 
-    <distributionManagement>
-        <repository>
-            <id>paicbd</id>
-            <name>localhost-releases</name>
-            <url>https://repository.ws-paicbd.com/artifactory/libs-release-local</url>
-        </repository>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>localhost-snapshots</name>
-            <url>https://repository.ws-paicbd.com/artifactory/libs-release-local</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <dependencies>
         <!-- License Enforcer -->
         <dependency>
